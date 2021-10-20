@@ -1,0 +1,25 @@
+table{
+  margin: 0 auto;
+  text-align: center;
+}
+img{
+  opacity: 0.3;
+}
+img:hover{
+  opacity:1.0;
+}
+tr:nth-child(3n+1){
+  background-color: gray;
+}
+tr:nth-child(3n+3){
+  background-color: silver;
+}
+caption h1{
+  color:red;
+}
+.sample{
+  color: red;
+}
+#sample{
+  color: blue;
+}
